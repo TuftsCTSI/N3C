@@ -1,2 +1,3 @@
 # N3C
-National Covid Cohort Collaborative
+
+Tufts Medicine's Participation in the National Covid Cohort Collaborative 
