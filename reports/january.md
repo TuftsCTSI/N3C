@@ -8,11 +8,3 @@ If the work was not completed, please explain why.
 If a task or activity hasn’t started yet, please indicate that in your report.
 
 ### Data Provided to N3C (Manlik)
- 
-### Concept Mapping (Polina)
-
-### ETL of EHR to OMOP (Kyle)
-
-### OHDSI Environment for N3C (Kyrylo)
-
-### Legal Agreements (Svetlana) 
