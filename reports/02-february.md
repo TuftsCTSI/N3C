@@ -10,4 +10,4 @@
 ### Concept Mapping (Polina)
 
 ### Datavant PPRL (Kyle)
-Kyle has attended ~2hrs of instructional meetings in order to incorporate Datavant PPRL software into the new TRDW for the purpose of deduplicating patient data. In ~8hrs of development time, Kyle has worked to set up an SFTP account to the LHB (Regenstrief) and tokenize the latest N3C submission using the Datavant software 
+Kyle has attended ~2hrs of instructional meetings in order to incorporate Datavant PPRL software into the new TRDW for the purpose of deduplicating patient data. In ~12hrs of development time, Kyle has worked to set up an SFTP account to the LHB (Regenstrief), draft a script to automate tokenization of N3C cohort, and troubleshoot and tokenize the latest N3C submission using the Datavant software.
