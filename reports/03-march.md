@@ -9,7 +9,10 @@
 
 ### OHDSI Environment for N3C (Kyrylo)
 
+Kyrylo attended 1h meeting to discuss deployment of the OHDSI tool stack on the Databricks platform and related compatibility concerns.
+
 ### ETL of EHR to OMOP (Kyle)
+
 EHR data is being transformed from the Epic Clarity model to the OMOP CDM specification. Currently, the database contains:
 
 - 3.59 million patients (1.48 million "active" patients)
