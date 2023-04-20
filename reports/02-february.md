@@ -7,9 +7,12 @@
 > If the work was not completed, please explain why.
 > If a task or activity hasn’t started yet, please indicate that in your report.
  
-# Concept Mapping
+## Datavant PPRL (Kyle)
+Kyle has attended ~2hrs of instructional meetings in order to incorporate Datavant PPRL software into the new TRDW for the purpose of deduplicating patient data. In ~12hrs of development time, Kyle has worked to set up an SFTP account to the LHB (Regenstrief), draft a script to automate tokenization of N3C cohort, and troubleshoot and tokenize the latest N3C submission using the Datavant software.
+ 
+## Concept Mapping (Polina)
 
-## Deliverables
+### Deliverables
 1. MIMIC4 mapping set in the SSSOM format - a reference collection of MIMIC4 terms mapped to the OMOP Vocabulary via SSSOM
 2. Flowsheets mapping set in the SSSOM format - a reference collection of terms derived from EHR Flowsheets mapped to the OMOP Vocabulary
 3. Python tool for converting mapping in SSSOM to SQL inserts (beta-version)
@@ -18,20 +21,20 @@
 6. Collection of ECTO terms in the OMOP CDM format, including their internal relationships, to facilitate their integration with the OMOP vocabulary in the future
 7. Python tool for converting ECTO in the OMOP CDM format (beta-version)
 
-## Quantitative Metrics
+### Quantitative Metrics
 * Number of meetings within the project per month: 15
 * Number of shared mapping tables by stakeholders: 4
 * Number of files processed to obtain deliverables: 7
 * Number of terms mapped to OMOP via SSSOM: 2640
 * Number of candidate OMOP Extension concepts to be validated: 67
 
-## Involved Stakeholders
+### Involved Stakeholders
 * Internal: Andrew Williams, Marta Alvarez, Soojin Park, Gilles Clermont, Manlik Kwong, Kyle Zollo-Venecek, Kevin Auguste, Polina Talapova
 * External: Tom Pollard, Abdulrahman Chahin, Nicolas Matentzoglu, Mik Kalfeltz, Anna Ostropolets, Christian Reich, Melissa Hendel, Davera Gabriel
 * Organizations: Tufts, MIT Laboratory for Computational Physiology, Washington University, Semanticly Ltd, Odysseus Solutions, OHDSI, Columbia University, 
 University of Pittsburgh Medical Center, University of Colorado, Johns Hopkins University School of Medicine
 
-## Work done
+### Work done
 * Andrew played a critical role in defining the vision and direction for the strategy, while also ensuring active communication among stakeholders to maintain alignment and progress; he also shared the Flowsheets-to-OMOP mappings that had been provided to him by Washington University representatives
 * Marty was responsible for the project management and organizing the workflow
 * Soojin and Gilles participated in the CHoRUS Bridge2AI Standards Calls, sharing their valuable thoughts and insights in accordance with the concept mapping approach
@@ -45,20 +48,20 @@ University of Pittsburgh Medical Center, University of Colorado, Johns Hopkins U
 * Manlik was the first to implement the SSSOM mapping table in his work, providing valuable feedback and contributing to the development of the project
 * Polina utilized the knowledge and materials gained from communication and collaboration with stakeholders to create deliverables that met project requirements and objectives
 
-## Outcomes
+### Outcomes
 * Developed a model for the representation of source data mapping to the OMOP Vocabulary in SSSOM format
 * Implemented the processing of mappings to the OMOP Vocabulary in SSSOM format
 * Improved navigation through the mapping process, which is an integral part of the ETL workflow
 * Formulated a strategy for identifying and filling gaps in the OMOP Vocabulary
 * Initiated the integration of ECTO into the OMOP Vocabulary system
 
-## Accomplishment Methodology
+### Accomplishment Methodology
 * Defined clear deliverables and established quantitative metrics to track progress
 * Involved a diverse group of stakeholders from various organizations, both internal and external, to provide different perspectives and expertise
 * Assigned specific roles and responsibilities to team members to ensure effective collaboration and progress towards deliverables
 * Utilized feedback and insights from stakeholders to improve the mapping process and develop strategies for identifying and filling gaps in the OMOP Vocabulary
 
-## Next Steps
+### Next Steps
 * Extend MIMIC4-to-OMOP-via-SSSOM mapping collection
 * Extend Flowsheets-to-OMOP-via-SSSOM mapping collection
 * Optimize the Python tool for converting SSSOM mapping table into OMOP CDM format
@@ -67,5 +70,6 @@ University of Pittsburgh Medical Center, University of Colorado, Johns Hopkins U
 * Continue working on ECTO incorporation in the OMOP Vocabulary
 * Consider which additional ontologies or vocabularies can be useful to meet project objectives
 
-## Where to Find Concept Mapping Work
+### Where to Find Concept Mapping Work
 To access the deliverables, interested individuals can visit the corresponding directory on the CD2H GitHub.
+

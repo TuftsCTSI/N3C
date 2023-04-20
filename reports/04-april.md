@@ -7,4 +7,8 @@
 > If the work was not completed, please explain why.
 > If a task or activity hasn’t started yet, please indicate that in your report.
 
+### OHDSI Environment for N3C (Kyrylo)
+
+Kyrylo attended 1h meeting to discuss deployment of the OHDSI tool stack on the Databricks platform and related compatibility concerns.
+
 ### Legal Agreements (Svetlana) 
