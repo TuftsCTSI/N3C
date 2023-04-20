@@ -21,9 +21,9 @@
 ## Quantitative Metrics
 * Number of meetings within the project per month: 15
 * Number of shared mapping tables by stakeholders: 4
-* Number of files processed to obtain deliverables: 6
-* Number of terms mapped via SSSOM: XXX
-* Number of source terms which do not have stadnrd OMOP equivalent: XX
+* Number of files processed to obtain deliverables: 7
+* Number of terms mapped to OMOP via SSSOM: 2640
+* Number of candidate OMOP Extension concepts to be validated: 67
 
 ## Involved Stakeholders
 * Internal: Andrew Williams, Marta Alvarez, Soojin Park, Gilles Clermont, Manlik Kwong, Kyle Zollo-Venecek, Kevin Auguste, Polina Talapova
@@ -32,10 +32,10 @@
 University of Pittsburgh Medical Center, University of Colorado, Johns Hopkins University School of Medicine
 
 ## Work done
-* Andrew played a critical role in defining the vision and direction for the strategy, while also ensuring active communication among stakeholders to maintain alignment and progress
+* Andrew played a critical role in defining the vision and direction for the strategy, while also ensuring active communication among stakeholders to maintain alignment and progress; he also shared the Flowsheets-to-OMOP mappings that had been provided to him by Washington University representatives
 * Marty was responsible for the project management and organizing the workflow
 * Soojin and Gilles participated in the CHoRUS Bridge2AI Standards Calls, sharing their valuable thoughts and insights in accordance with the concept mapping approach
-* Kyle assisted with enriching the MIMIC4 mapping set by incorporating Tufts MIMIC4 data, which was instrumental in achieving a more comprehensive and accurate mapping
+* Kyle assisted with enriching the MIMIC4 mapping set by incorporating Tufts MIMIC4 data, which was instrumental in achieving a more relevant mapping for Tufts
 * Kevin played an important role in organizing meetings
 * Tom and Abdulrahman shared the MIMIC4-to-OMOP mappings made by MIT
 * Mik shared Odysseus' MIMIC4-to-OMOP approach, as well as participated in the definition of the strategy for applying SSSOM to OMOP
@@ -58,5 +58,14 @@ University of Pittsburgh Medical Center, University of Colorado, Johns Hopkins U
 * Assigned specific roles and responsibilities to team members to ensure effective collaboration and progress towards deliverables
 * Utilized feedback and insights from stakeholders to improve the mapping process and develop strategies for identifying and filling gaps in the OMOP Vocabulary
 
-### Where to Find Concept Mapping Work
-To access the deliverables, interested individuals can visit the corresponding directory (link) on the CD2H GitHub
+## Next Steps
+* Extend MIMIC4-to-OMOP-via-SSSOM mapping collection
+* Extend Flowsheets-to-OMOP-via-SSSOM mapping collection
+* Optimize the Python tool for converting SSSOM mapping table into OMOP CDM format
+* Revise and improve the developed documentation
+* Extend collection of candidate OMOP Extension concepts to be added to the OMOP Vocabulary and process them according to the developed algorithm
+* Continue working on ECTO incorporation in the OMOP Vocabulary
+* Consider which additional ontologies or vocabularies can be useful to meet project objectives
+
+## Where to Find Concept Mapping Work
+To access the deliverables, interested individuals can visit the corresponding directory on the CD2H GitHub.
