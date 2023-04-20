@@ -8,3 +8,7 @@
 > If a task or activity hasn’t started yet, please indicate that in your report.
 
 ### Data Provided to N3C (Manlik)
+
+We have processed over 402k HL7 transactions so far. Each can contain one or more measurement, setting change, or alarm.
+Including data flow, processes, there are OMOP mappings for 2 of the 16 devices we are capturing data from Capsule. 
+The data collection process is live, continuously capturing and storing and stagging the Capsule data.
