@@ -7,17 +7,15 @@
 > If the work was not completed, please explain why.
 > If a task or activity hasn’t started yet, please indicate that in your report.
 
-## OHDSI Environment for N3C (Kyrylo)
+## OHDSI Environment for N3C (Kyrylo Simonov)
 
 Kyrylo attended 1h meeting to discuss deployment of the OHDSI tool stack on the Databricks platform and related compatibility concerns.
 
-## Device Data Acquisition (Manlik)
+## Device Data Acquisition (Manlik Kwong)
 
 Updating documentation for medical device data acquisition for OMOP import.
 
-## Legal Agreements (Svetlana)
-
-## Concept Mapping (Polina)
+## Concept Mapping (Polina Talapova)
 
 ### Deliverables
 1. Extended Flowsheets-to-OMOP mapping set in the SSSOM format 
@@ -54,6 +52,12 @@ Updating documentation for medical device data acquisition for OMOP import.
 * Continue working on ECTO incorporation in the OMOP Vocabulary
 * Finalize HPO-to-OMOP mapping review and transform mappings in SSSOM format
 * Define a strategy for converting data to OMOP via SSSOM based on UCSF materials, leveraging established best practices to ensure accuracy and completeness of the mapping process; provide Edilberto with feedback
+
+## GitHub Public Repository (Clark Evans)
+Create and manage GitHub repository to facilitate sharing of quantitative metrics required by N3C for reporting.
+
+## Monthly Report Coordination and Submission (Marty Alvarez)
+Coordinate work completed by Tufts team and prepare for online submission required by N3C for reporting.
 
 ## Where to Find Deliverables
 To access the deliverables, please visit the [docs](https://github.com/TuftsCTSI/N3C/tree/main/docs) directory on the CD2H GitHub
