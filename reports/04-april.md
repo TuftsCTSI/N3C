@@ -9,7 +9,7 @@
 
 ## OHDSI Environment for N3C (Kyrylo Simonov)
 
-Kyrylo attended 1h meeting to discuss deployment of the OHDSI tool stack on the Databricks platform and related compatibility concerns.
+Attended 1h meeting to discuss deployment of the OHDSI tool stack on the Databricks platform and related compatibility concerns.
 
 ## Device Data Acquisition (Manlik Kwong)
 
@@ -21,7 +21,7 @@ Updating documentation for medical device data acquisition for OMOP import.
 1. Extended Flowsheets-to-OMOP mapping set in the SSSOM format 
 2. Updated version of Python tool for converting mapping in SSSOM to SQL inserts (v.1.1)
 3. OMOP CDM ETL Specification Guide
-4. Documentation on the asssessment of the i2b2-on-OMOP application potential
+4. Documentation on the assessment of the i2b2-on-OMOP application potential
 
 ### Quantitative Metrics
 * Number of meetings within the project per month: 9 (9 hrs)
@@ -31,7 +31,7 @@ Updating documentation for medical device data acquisition for OMOP import.
 * Number of candidate OMOP Extension concepts to be validated: (37)+30
 
 ### Involved Stakeholders
-* Internal: Andrew Williams, Marta Alvarez, Manlik Kwong, Kyle Zollo-Venecek, Kevin Auguste, Polina Talapova
+* Internal: Andrew Williams, Marty Alvarez, Manlik Kwong, Kyle Zollo-Venecek, Kevin Auguste, Polina Talapova
 * External: Edilberto Amorim De Cerqueira Filho (UCSF), Melanie Philofsky (Odysseus), Dmytry Dymshits (JJ), Piper Ranallo (Fairview Health Services), Jeff Klann (i2b2)  
 ### Work done and Outcomes
 * Developed additional Flowsheets-to-OMOP-via-SSSOM mappings
@@ -41,7 +41,7 @@ Updating documentation for medical device data acquisition for OMOP import.
 * Initiated assistance for Edilberto in converting UCSF's dataset to OMOP via SSSOM, providing guidance and support throughout the conversion process.
 * Initiated review of HPO to OMOP mapping
 * Initiated a review of the HPO to OMOP mapping to identify areas for improvement and ensure alignment with established ontology standards
-* Provided Manlik with feedback on SSSOM mapping tables that he generated and shared, offering suggestions for improvement and identifying areas where the mappings could be further refine
+* Provided Manlik with feedback on SSSOM mapping tables that he generated and shared, offering suggestions for improvement and identifying areas where the mappings could be further refined
 * Evaluated the potential of the i2b2 application in Tufts projects from the Vocabulary perspective
 
 ### Next Steps
