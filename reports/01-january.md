@@ -7,7 +7,7 @@
 > If the work was not completed, please explain why.
 > If a task or activity hasn’t started yet, please indicate that in your report.
 
-### Data Provided to N3C (Manlik)
+### Device Data Acquisition (Manlik)
 
 There are over 402,000 HL7 transactions to be mapped and linked to target patients (via previous TRDW and/or new COVID-19 patients as of June/July 2022).
 Each can contain one or more measurement, setting change, or alarm.
