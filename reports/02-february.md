@@ -15,18 +15,18 @@ Kyle has attended ~2hrs of instructional meetings in order to incorporate Datava
 ### Deliverables
 1. MIMIC4 mapping set in the SSSOM format - a reference collection of MIMIC4 terms mapped to the OMOP Vocabulary via SSSOM
 2. Flowsheets mapping set in the SSSOM format - a reference collection of terms derived from EHR Flowsheets mapped to the OMOP Vocabulary
-3. Python tool for converting mapping in SSSOM to SQL inserts (beta-version)
+3. Python tool for converting mapping in SSSOM to SQL inserts (v.1.0)
 4. Documentation on how to use mappings in an ETL, that covers the steps required to incorporate the mappings into an ETL pipeline
 5. Documentation on the process of identifying and filling gaps in the OMOP Vocabulary, that outlines the steps required to detect any missing standard concepts and add them to the system
 6. Collection of ECTO terms in the OMOP CDM format, including their internal relationships, to facilitate their integration with the OMOP vocabulary in the future
-7. Python tool for converting ECTO in the OMOP CDM format (beta-version)
+7. Python tool for converting ECTO in the OMOP CDM format (v.1.0)
 
 ### Quantitative Metrics
 * Number of meetings within the project per month: 15
 * Number of shared mapping tables by stakeholders: 4
 * Number of files processed to obtain deliverables: 7
-* Number of terms mapped to OMOP via SSSOM: 2640
-* Number of candidate OMOP Extension concepts to be validated: 67
+* Number of terms mapped to OMOP via SSSOM: 872
+* Number of candidate OMOP Extension concepts to be validated: 27
 
 ### Involved Stakeholders
 * Internal: Andrew Williams, Marta Alvarez, Soojin Park, Gilles Clermont, Manlik Kwong, Kyle Zollo-Venecek, Kevin Auguste, Polina Talapova
@@ -71,5 +71,4 @@ University of Pittsburgh Medical Center, University of Colorado, Johns Hopkins U
 * Consider which additional ontologies or vocabularies can be useful to meet project objectives
 
 ### Where to Find Concept Mapping Work
-To access the deliverables, interested individuals can visit the corresponding directory on the CD2H GitHub.
-
+To access the deliverables, interested individuals can visit the [docs](https://github.com/TuftsCTSI/N3C/tree/main/docs) directory on the CD2H GitHub.

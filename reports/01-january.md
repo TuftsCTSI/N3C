@@ -14,3 +14,8 @@ For the N3C project, we have implemented a screening and mapping process and sof
 The data captured represents cardiac, respiratory, and general vitals (temperature, heartrate, blood pressures, etc) and parameters.
 Data is captured as HL7 transactions in which it is organized by patient, department/floor, device, and reporting period. SNOMED and LOINC mapping are available for the two most common device data sources (Philips iX Central Station and Draeger Medibus).
 Over the next quarter over 402,000 HL7 transactions captured since June 2022 will be parsed, mapped, and associated to the next N3C cohort update.
+
+### Agreement Execution (Svetlana)
+
+•	NCATS Regenstrief Institute N3C Linkage Honest Data Broker Agreement (January 23, 2023)
+•	Datavant Site License Agreement (November 02, 2022)
