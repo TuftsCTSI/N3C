@@ -7,11 +7,11 @@
 > If the work was not completed, please explain why.
 > If a task or activity hasn’t started yet, please indicate that in your report.
 
-## OHDSI Environment for N3C (Kyrylo)
+## OHDSI Environment for N3C (Kyrylo Simonov)
 
-Kyrylo attended 1h meeting to discuss deployment of the OHDSI tool stack on the Databricks platform and related compatibility concerns.
+Attended 1h meeting to discuss deployment of the OHDSI tool stack on the Databricks platform and related compatibility concerns.
 
-## ETL of EHR to OMOP (Kyle)
+## ETL of EHR to OMOP (Kyle Zollo-Venecek)
 
 EHR data is being transformed from the Epic Clarity model to the OMOP CDM specification. Currently, the database contains:
 
@@ -23,7 +23,7 @@ At this point, 709 unique concepts from Tufts' Epic Clarity data have been mappe
 
 The ETL of EHR data to OMOP is nearly complete. After a review of ETL data quality, the ETL script will be ready to transform data from EHR to OMOP in production. Concepts will steadily continue to be mapped in order to meet researcher use cases and improve overall ETL quality.
 
-## Concept Mapping (Polina)
+## Concept Mapping (Polina Talapova)
 
 ### Deliverables
 1. Extended MIMIC4 mapping set in the SSSOM format
@@ -37,7 +37,7 @@ The ETL of EHR data to OMOP is nearly complete. After a review of ETL data quali
 * Number of candidate OMOP Extension concepts to be validated: (27)+10
 
 ### Involved Stakeholders
-* Internal: Andrew Williams, Marta Alvarez, Soojin Park, Gilles Clermont, Manlik Kwong, Kyle Zollo-Venecek, Kevin Auguste, Polina Talapova
+* Internal: Andrew Williams, Marty Alvarez, Soojin Park, Gilles Clermont, Manlik Kwong, Kyle Zollo-Venecek, Kevin Auguste, Polina Talapova
 * External: Nicolas Matentzoglu, Mik Kalfeltz
 
 ### Work Done and Outcomes
