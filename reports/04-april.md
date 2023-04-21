@@ -11,4 +11,8 @@
 
 Kyrylo attended 1h meeting to discuss deployment of the OHDSI tool stack on the Databricks platform and related compatibility concerns.
 
+### Data Provided to N3C (Manlik)
+
+Updating documentation for medical device data acquisition for OMOP import.
+
 ### Legal Agreements (Svetlana) 

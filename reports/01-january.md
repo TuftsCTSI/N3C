@@ -9,6 +9,7 @@
 
 ### Data Provided to N3C (Manlik)
 
-We have processed over 402k HL7 transactions so far. Each can contain one or more measurement, setting change, or alarm.
+There are over 402,000 HL7 transactions to be mapped and linked to target patients (via previous TRDW and/or new COVID-19 patients as of June/July 2022).
+Each can contain one or more measurement, setting change, or alarm.
 Including data flow, processes, there are OMOP mappings for 2 of the 16 devices we are capturing data from Capsule. 
 The data collection process is live, continuously capturing and storing and stagging the Capsule data.
