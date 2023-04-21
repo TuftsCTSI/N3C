@@ -17,5 +17,5 @@ Over the next quarter over 402,000 HL7 transactions captured since June 2022 wil
 
 ### Agreement Execution (Svetlana Rojevsky)
 
-•	NCATS Regenstrief Institute N3C Linkage Honest Data Broker Agreement (January 23, 2023)
-•	Datavant Site License Agreement (November 02, 2022)
+•	NCATS Regenstrief Institute N3C Linkage Honest Data Broker Agreement (Location: root folder of N3C OHDSI)
+•	Datavant Site License Agreement (Location: root folder of N3C OHDSI)
