@@ -7,10 +7,10 @@
 > If the work was not completed, please explain why.
 > If a task or activity hasn’t started yet, please indicate that in your report.
  
-## Datavant PPRL (Kyle)
-Kyle has attended ~2hrs of instructional meetings in order to incorporate Datavant PPRL software into the new TRDW for the purpose of deduplicating patient data. In ~12hrs of development time, Kyle has worked to set up an SFTP account to the LHB (Regenstrief), draft a script to automate tokenization of N3C cohort, and troubleshoot and tokenize the latest N3C submission using the Datavant software.
+## Datavant PPRL (Kyle Zollo-Venecek)
+Attended ~2hrs of instructional meetings in order to incorporate Datavant PPRL software into the new TRDW for the purpose of deduplicating patient data. In ~12hrs of development time, worked to set up an SFTP account to the LHB (Regenstrief), draft a script to automate tokenization of N3C cohort, and troubleshoot and tokenize the latest N3C submission using the Datavant software.
  
-## Concept Mapping (Polina)
+## Concept Mapping (Polina Talapova)
 
 ### Deliverables
 1. MIMIC4 mapping set in the SSSOM format - a reference collection of MIMIC4 terms mapped to the OMOP Vocabulary via SSSOM
@@ -29,7 +29,7 @@ Kyle has attended ~2hrs of instructional meetings in order to incorporate Datava
 * Number of candidate OMOP Extension concepts to be validated: 27
 
 ### Involved Stakeholders
-* Internal: Andrew Williams, Marta Alvarez, Soojin Park, Gilles Clermont, Manlik Kwong, Kyle Zollo-Venecek, Kevin Auguste, Polina Talapova
+* Internal: Andrew Williams, Marty Alvarez, Soojin Park, Gilles Clermont, Manlik Kwong, Kyle Zollo-Venecek, Kevin Auguste, Polina Talapova
 * External: Tom Pollard, Abdulrahman Chahin, Nicolas Matentzoglu, Mik Kalfeltz, Anna Ostropolets, Christian Reich, Melissa Hendel, Davera Gabriel
 * Organizations: Tufts, MIT Laboratory for Computational Physiology, Washington University, Semanticly Ltd, Odysseus Solutions, OHDSI, Columbia University, 
 University of Pittsburgh Medical Center, University of Colorado, Johns Hopkins University School of Medicine
