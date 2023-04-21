@@ -15,4 +15,10 @@ Kyrylo attended 1h meeting to discuss deployment of the OHDSI tool stack on the 
 
 Updating documentation for medical device data acquisition for OMOP import.
 
-### Legal Agreements (Svetlana) 
+### GitHub Public Repository (Clark Evans)
+
+Create and manage GitHub repository to facilitate sharing of quantitative metrics required by N3C for reporting.
+
+### Monthly Report Coordination and Submission (Marty Alvarez)
+
+Coordinate work completed by Tufts team and prepare for online submission required by N3C for reporting.
