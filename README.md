@@ -13,4 +13,3 @@ This public repository is used for source code, documentation, and reporting req
 ## Scripts
 
 - [Script to Tokenize via Datavant](scripts/createDatavantInput.R)
-
