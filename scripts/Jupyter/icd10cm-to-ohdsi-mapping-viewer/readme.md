@@ -1,20 +1,25 @@
-# ICD-10-CM to OHDSI Mappings Jupyter Notebook
+# Jupyter Notebook: ICD10CM-to-OHDSI Mapping Viewer 
 
-This Jupyter notebook offers an efficient workflow to fetch, process, and interactively explore the mappings from ICD-10-CM codes to OHDSI Standardized Vocabularies, complete with detailed mapping precision metadata.
+This Jupyter notebook offers an efficient workflow to fetch, process, and explore the mappings from ICD10CM codes to OHDSI Standardized Vocabularies, complete with detailed mapping precision metadata.
 
 ## Features
-* Automated download: The code automatically fetches the most recent mapping Excel file from a provided GitHub link.
-* Excel to CSV conversion: The notebook reads the "ICD10CM-to-OHDSI-Mappings" tab from the Excel file and saves it as a CSV file.
-* Optimized search: Users can efficiently search through the mappings using specified columns with an interactive search bar.
-
+* Automated XLSX download
+* XLSX to CSV conversion
+* Search for ICD codes, code descriptions, and mapping metadata
+* Mapping statistics
+* QA
+* Dashboards
+  
 ## Usage
-* Run the notebook: Execute all cells to perform the download, conversion, and initialize the search bar.
-* Interactive search: Use the search bar widget to search for specific ICD codes, descriptions, or mapping precision metadata present in the predefined search columns. Results will be displayed directly below the search bar.
+* Run the notebook
+* Analyze the results
 
 ## Dependencies:
-* pandas
-* requests
-* ipywidgets
-* openpyxl
+- `pandas`
+- `requests`
+- `ipywidgets`
+- `IPython`
+- `matplotlib`
+- `seaborn`
 
 Ensure all dependencies are installed in your Jupyter environment for seamless execution.
