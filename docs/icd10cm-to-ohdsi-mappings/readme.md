@@ -1,7 +1,7 @@
 # ICD10CM to OHDSI Mappings
-Access open-source mappings between ICD10CM and OHDSI Standardized Vocabularies with enhanced precision. 
-We detail each mapping with mapping precision metadata.
+Explore open-source mappings between ICD10CM and OHDSI Standardized Vocabularies, enhanced with precision metadata details.
 
 ## Usage
-* Direct Download: Grab the XLSX file and use it as needed.
-* Interactive with JupyterLab: Navigate and analyze mappings interactively using the Jupyter Notebook.
+
+- **Direct Download**: Fetch the [XLSX file](https://github.com/TuftsCTSI/N3C/docs/icd10cm-to-ohdsi-mappings/ICD10CM-to-OHDSI-Mappings.xlsx) for immediate use.
+- **Interactive Tool**: Explore and analyze mappings using the Jupyter Notebook-powered [ICD10CM-to-OHDSI Mapping Viewer](https://github.com/TuftsCTSI/N3C/scripts/Jupyter/icd10cm-to-ohdsi-mapping-viewer/icd10cm-to-ohdsi-mapping-viewer.ipynb).
