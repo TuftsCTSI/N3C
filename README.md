@@ -13,3 +13,4 @@ This public repository is used for source code, documentation, and reporting req
 ## Scripts
 
 - [Script to Tokenize via Datavant](scripts/createDatavantInput.R)
+- [ICD10CM-to-OHDSI Mapping Viewer](scripts/Jupyter/icd10cm-to-ohdsi-mapping-viewer.ipynb)
